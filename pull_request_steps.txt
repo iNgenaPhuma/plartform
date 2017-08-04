@@ -1,0 +1,8 @@
+git config --global user.email "shelembesiyabonga@gmail.com"
+
+git commit -am "Isiyasebenza"
+
+git push
+
+git clone https://github.com/iNgenaPhuma/plartform.git
+
